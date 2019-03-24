@@ -19,3 +19,11 @@ c(2, 3, 5, 7, 11, 13) - 2 #Resta de los valores. Resultado: [1] 0 1 3 5 9 11
 
 # EXPONENCIA se puede ingresar tanto con un '^' como con '**'
 
+
+# DIVISIÓN se expresa con un '/'
+
+
+# DIVISIÓN que entregue sólo el ENTERO se expresa con un '%/%'
+
+
+# DIVISIÓN que entregue sólo el RESTO se expresa con un '%%'
